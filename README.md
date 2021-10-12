@@ -41,8 +41,8 @@ I speak Portuguese and enough English to be a valuable contributor :)
 
 # Contact 📞
 
-#### 💬 I'm currently WFH in Santa Catarina, Brazil with my lovely wife Charlise.
-- [![Linkedin](https://img.shields.io/badge/Linkedin-Wonjang%20Son-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luanoliveira/)
+#### 💬  I'm currently WFH in Santa Catarina, Brazil with my lovely wife Charlise.
+- [![Linkedin](https://img.shields.io/badge/Linkedin-Luan%20Eli%20Oliveira-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luanoliveira/)
 
 <!--
 **luanelioliveira/luanelioliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
