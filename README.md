@@ -12,7 +12,6 @@ I speak Portuguese and enough English to be a valuable contributor :)
 
 # Skillset
 
-
 ## ♟ Back
 - Java
 - Node.js
@@ -24,6 +23,7 @@ I speak Portuguese and enough English to be a valuable contributor :)
 - GraphQL (Apollo)
 <br>
 <br>
+
 ## 🎨 Front
 - Typescript
 - React.js
