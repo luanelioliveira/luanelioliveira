@@ -1,9 +1,11 @@
 # About me 👋
-I was born in Brazil. I worked in Accounting, Health, Tracking and Experimentation (Test A/B) fields in the past, this experience gives me a new perspective looking at the details and forecasting limited resources, this also allows great improvements in logical thinking and problem-solving skills.
+I was born in Brazil. I worked in Accounting, Health and Logistic softwares in the past, but today I've worked with Tracking and Experimentation platform. These experiences gives me a new perspective looking at the details and forecasting limited resources, this also allows great improvements in logical thinking and problem-solving skills.
 
-Now I'm into web development, working as a software engineer I'm always open to develop on both, client and the server-side. My highest goal is to make the world a better place through tech. Never forget that tech is always a tool and not a purpose by itself. I always think coding should be altruistic.
+Now I'm into web development, working as a software engineer at  Interested in handling cross-platform cool ideas & developing real-world problem solutions.
 
-I'm skilled in Java environment focused on the client-side but always supporting everybody's "back"(end). Interested in handling cross-platform cool ideas & developing real-world problem solutions. I'm always aware of the existence of a variated pool of skills that makes me humble & listen-first-minded. I also have strong logical communication skills and a problem-solving attitude.
+I'm always aware of the existence of a variated pool of skills that makes me humble & listen-first-minded. I also have strong logical communication skills and a problem-solving attitude.
+
+My highest goal is to make the world a better place through tech. Never forget that tech is always a tool and not a purpose by itself.
 
 I speak Portuguese and enough English to be a valuable contributor :)
 
@@ -14,21 +16,15 @@ I speak Portuguese and enough English to be a valuable contributor :)
 
 ## ♟ Back
 - Java
-- Node.js
+- Node
 - Python
 - Spring, Express, Flask
-- AWS products (EC2, S3, Route53, CloudFront, SAM, Lambda, Cognito, DynamoDB)
-- Firebase (Auth, Firestore, Storage, Hosting)
-- PostgreSQL (Prisma/ Nexus.js)
-- GraphQL (Apollo)
+- AWS products (EC2, S3, Route53, CloudFront, SAM, Lambda)
+- PostgreSQL, MySQL, Oracle, DynamoDB, Redis
 
 ## 🎨 Front
-- Typescript
-- React.js
-- React-Hooks
-- Context API
-- Redux
-- Styled components
+- React
+- Vue 
 <br>
 <br>
 
