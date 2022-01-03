@@ -35,7 +35,6 @@ I speak Portuguese and enough English to be a valuable contributor :)
 
 # Contact 📞
 
-#### 💬  I'm currently living in Santa Catarina, Brazil.
 [![Linkedin](https://img.shields.io/badge/Linkedin-Luan%20Eli%20Oliveira-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luanoliveira/)
 
 <!--
