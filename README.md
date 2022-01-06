@@ -1,10 +1,15 @@
 # About me 👋
-I was born in Brazil. I worked in Accounting, Health and Logistic softwares in the past, but today I've worked with Tracking and Experimentation platform. These experiences gives me a new perspective looking at the details and forecasting limited resources, this also allows great improvements in logical thinking and problem-solving skills. 
-Now I'm into web development, working as a software engineer at OLX Brazil
+Hi there! 
+
+My name is Luan. I'm 31 years old and I was born in Brazil. 
+
+Currently, I'm a Software Enginner at OLX Brazil and I've been working with Tracking and Experimentation platform but I already worked in Accounting, Health and Logistic softwares in the past.
+
+These experiences gave me a new perspective looking at the details and forecasting limited resources, this also allows great improvements in logical thinking and problem-solving skills. 
 
 I'm always aware of the existence of a variated pool of skills that makes me humble & listen-first-minded. I also have strong logical communication skills and a problem-solving attitude.
 
-My highest goal is to make the world a better place through tech. Never forget that tech is always a tool and not a purpose by itself.
+My highest goal is to make the world a better place through tech.
 
 I speak Portuguese and enough English to be a valuable contributor :)
 
