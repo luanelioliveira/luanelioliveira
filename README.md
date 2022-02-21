@@ -1,17 +1,11 @@
 # About me 👋
 Hi there! 
 
-My name is Luan. I'm 31 years old and I was born in Brazil. 
+I have been working with software development for eleven years and have experience with technologies such as Java, Python and NodeJS for building backend applications and ReactJS for building frontend applications. Additionally, I also have experience with Terraform, Docker, Kubernetes and AWS Services as a Cloud Provider. 
 
-Currently, I'm a Software Enginner at OLX Brazil and I've been working with Tracking and Experimentation platform but I already worked in Accounting, Health and Logistic softwares in the past.
+A few years ago, I graduated in Systems Development and Analysis and then did a postgraduate degree in Software Engineering as well. 
 
-These experiences gave me a new perspective looking at the details and forecasting limited resources, this also allows great improvements in logical thinking and problem-solving skills. 
-
-I'm always aware of the existence of a variated pool of skills that makes me humble & listen-first-minded. I also have strong logical communication skills and a problem-solving attitude.
-
-My highest goal is to make the world a better place through tech.
-
-I speak Portuguese and enough English to be a valuable contributor :)
+Currently I'm working as Software Engineer in a large company specialized in marketplace and work in a team that builds an experimentation platform for the entire company to accelerate its projects, validating hypothesis through AB Tests.
 
 <br>
 <br>
@@ -23,12 +17,13 @@ I speak Portuguese and enough English to be a valuable contributor :)
 - Node
 - Python
 - Spring, Express, Flask
-- AWS products (EC2, S3, Route53, CloudFront, SAM, Lambda)
-- PostgreSQL, MySQL, Oracle, DynamoDB, Redis
+- AWS as Cloud Provider
+- SQS/SNS, Kafka
+- PostgreSQL, Oracle, DynamoDB, Redis
 
 ## 🎨 Front
-- React
-- Vue 
+- ReactJS
+- VueJS
 <br>
 <br>
 
