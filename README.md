@@ -1,11 +1,7 @@
 # About me 👋
 Hi there! 
 
-I have been working with software development for eleven years and have experience with technologies such as Java, Python and NodeJS for building backend applications and ReactJS for building frontend applications. Additionally, I also have experience with Terraform, Docker, Kubernetes and AWS Services as a Cloud Provider. 
-
-A few years ago, I graduated in Systems Development and Analysis and then did a postgraduate degree in Software Engineering as well. 
-
-Currently I'm working as Software Engineer in a large company specialized in marketplace and work in a team that builds an experimentation platform for the entire company to accelerate its projects, validating hypothesis through AB Tests.
+I have been working with software development for 12+ years and worked with technologies such as Java, Node, Python for building backend applications and React JS for building frontend applications. In addition, I have experience with Terraform, Docker, Kubernetes and AWS Services as a Cloud Provider. A few years ago, I graduated in Systems Development and Analysis and then did a postgraduate degree in Software Engineering as well. 
 
 <br>
 <br>
@@ -17,13 +13,12 @@ Currently I'm working as Software Engineer in a large company specialized in mar
 - Node
 - Python
 - Spring, Express, Flask
-- AWS as Cloud Provider
-- SQS/SNS, Kafka
-- PostgreSQL, Oracle, DynamoDB, Redis
+- AWS Services as Cloud Provider
+- AWS SQS/SNS, Kafka, Kinesis
+- PostgreSQL, MS SQLServer, Oracle, Redis
 
 ## 🎨 Front
 - ReactJS
-- VueJS
 <br>
 <br>
 
