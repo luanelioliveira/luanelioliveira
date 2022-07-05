@@ -9,12 +9,12 @@ I have been working with software development for 12+ years and worked with tech
 
 # TechStack ♟ 
  
-- Java, Node, Python, ReacJS
+- Java, Node, Python, Clojure, ReactJS
 - Spring, Express, Flask
-- AWS
+- AWS 
 - SQS/SNS, Kafka, Kinesis
-- PostgreSQL, Oracle, Redis, MongoDB
-- Docker, Kubernetes, Terraform
+- PostgreSQL, Datomic, DynamoDB, Redis, MongoDB
+- Docker, Kubernetes, Terraform, Github Actions, Jenkins
 <br>
 <br>
 
