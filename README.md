@@ -28,7 +28,7 @@ I have been working with software development for 12+ years and worked with tech
 
 # Contact 📞
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-Luan%20Eli%20Oliveira-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luanoliveira/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Luan%20Oliveira-004386?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luanoliveira/)
 
 <!--
 **luanelioliveira/luanelioliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
