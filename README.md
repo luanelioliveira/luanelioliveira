@@ -9,12 +9,13 @@ I have been working with software development for 12+ years and worked with tech
 
 # TechStack ♟ 
  
-- Java, Node, Python, Clojure, ReactJS
-- Spring, Express, Flask
-- AWS 
-- SQS/SNS, Kafka, Kinesis
-- PostgreSQL, Datomic, DynamoDB, Redis, MongoDB
-- Docker, Kubernetes, Terraform, Github Actions, Jenkins
+- Programming Languages like Java, Javascript, Typescript, Python, Clojure
+- Frameworks frontend like ReactJS, NextJS
+- Frameworks backend like Spring Framework, Express, NestJS
+- AWS as Cloud Provider 
+- Messaging like AWS SQS/SNS, Kafka, Kinesis
+- Data Storage with PostgreSQL, Datomic, DynamoDB, Redis, MongoDB
+- Other technologies like Docker, Kubernetes, Terraform, Github Actions, Jenkins
 <br>
 <br>
 
